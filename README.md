@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**Etornam-Ahadzie/Etornam-Ahadzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Etornam Ahadzie
 
-Here are some ideas to get you started:
+### Petroleum Engineer | Machine Learning | Python | Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Petroleum Engineering graduate currently pursuing an MSc in Petroleum Engineering, with an interest in applying programming, machine learning and data-driven techniques to engineering problems.
+
+My interests include predictive modelling, production optimisation, artificial intelligence and software development.
+
+## About Me
+
+- Petroleum Engineering graduate and MSc candidate.
+- Interested in machine learning and data science applications in the energy industry.
+- Working with Python for data analysis, predictive modelling and optimisation.
+- Currently developing my full-stack software development skills.
+- Interested in the intersection of engineering, technology and artificial intelligence.
+
+## Technical Interests
+
+- **Programming:** Python
+- **Machine Learning:** XGBoost, Random Forest, ARIMA
+- **Data Science:** Data analysis, visualisation and predictive modelling
+- **Optimisation:** Genetic Algorithms and Particle Swarm Optimisation
+- **Engineering:** Petroleum production, artificial lift and gas-lift optimisation
+- **Software Development:** Full-stack web development
+
+## Featured Projects
+
+Projects will be added here as I develop and publish my work.
+
+## Currently Learning
+
+- Full-stack web development
+- Git and GitHub
+- Advanced machine learning
+- Software engineering practices
+
+## Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/etornam-ahadzie-7631541a6/)
+- GitHub: [@Etornam-Ahadzie](https://github.com/Etornam-Ahadzie)
